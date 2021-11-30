@@ -1,13 +1,13 @@
 # React-With-Babel
 
-### download dependencies
+### Download Dependencies
 ##### run "npm install" in the project directory
 
-### transpile JSX into JS
+### Transpile JSX into JS
 ##### run "npm run build" in the project directory
 ##### Google and follow error messages if they come up
 
-### initialize the server
+### Initialize the Server
 ##### run "npm start" to start the server in devlopment mode
 ##### run "npm run start-prod" to start the server in production mode
 
@@ -15,5 +15,5 @@
 
 <!-- https://www.robinwieruch.de/minimal-react-webpack-babel-setup/ -->
 
-#### you could see this is the app && this is the component rendered on the screen
+#### You should see "this is the app && this is the component" rendered on the screen
 
