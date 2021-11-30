@@ -3,7 +3,7 @@
 #### download dependencies
 ##### run "npm install" in the project directory
 
-#### transipile JSX into JS
+#### transpile JSX into JS
 ##### run "npm run build" in the project directory
 ##### Google and follow error messages if they come up
 
